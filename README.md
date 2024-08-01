@@ -1,5 +1,5 @@
 <--- 
-👋 Hi, I’m @surya
+👋 Hi, I’m @Surya Velpula 
 - 👀 I’m interested in ...Data Analytics 🔭
 - 🌱 I’m currently learning ...Data Analysis 
 - 💞️ I’m looking to collaborate on ... LinkedIn 
